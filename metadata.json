@@ -1,0 +1,6 @@
+{
+  "name": "CIBE/PA - Sistema Internacional de Educação",
+  "description": "Portal oficial da Comissão CIBE/PA, responsável pela implementação do Sistema Internacional de Educação no Estado do Pará (SEDUC/PA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
